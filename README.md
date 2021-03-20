@@ -1,7 +1,7 @@
 # Título e Descrição
 * Clubhouse
 
-<img src='https://blogdoiphone.com/wp-content/uploads/2021/02/Clubhouse_telas.png' alt='Exemple'>
+<img src='./assets/demo.png' alt='Exemple'>
 
 # Status do Projeto
 
